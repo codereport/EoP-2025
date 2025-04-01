@@ -7,3 +7,5 @@ This is the material (code and presentation slide decks) that correspond to the 
 * **Stepanov Papers Website:** https://www.stepanovpapers.com/
 * **Lectures:**
   * [Elements of Programming - Stanford (2010)](https://www.youtube.com/watch?v=Ih9gpJga4Vc)
+
+![image](https://github.com/user-attachments/assets/72213b95-4103-4ddc-8b0a-0deaceb68b45)
